@@ -1,7 +1,7 @@
 {
   "extends": ["prettier"],
   "rules": {
-    "no-var": "error"
+    "no-var": "warn"
     // var 금지
     //    "no-multiple-empty-lines": "error",
     // 여러 줄 공백 금지
